@@ -14,7 +14,7 @@
 
 1. 选择 **“创建存储”**。
 
->:pencil: **提示:**在每个会话中，你将会自动通过 Azure CLI 进行身份验证。
+>:pencil: **提示:** 在每个会话中，你将会自动通过 Azure CLI 进行身份验证。
 
 ## 选择 Bash 环境
 
@@ -35,7 +35,7 @@
     ```
     az account set --subscription 'my-subscription-name'
     ```
->:pencil: **提示：**可使用 `/home/<user>/.azure/azureProfile.json` 记住订阅，以供日后会话使用。
+>:pencil: **提示：** 可使用 `/home/<user>/.azure/azureProfile.json` 记住订阅，以供日后会话使用。
 
 ## 创建资源组
 
@@ -53,7 +53,7 @@ az group create --location westus --name MyRG
 az vm create -n myVM -g MyRG --image UbuntuLTS --generate-ssh-keys
 ```
 
->:heavy_check_mark: **注意：**使用 `generate-ssh-keys` 指示 Azure CLI 在 VM 和 `$ Home` 目录中创建和设置公钥和私钥。默认情况下，密钥放在 Cloud Shell 中的 `/home/<user>/.ssh/id_rsa` 和 `/home/<user>/.ssh/id_rsa.pub` 位置。`.ssh` 文件夹会保留在附加文件共享的用于保留 `$Home` 的 5 GB 映像中。
+>:heavy_check_mark: **注意：** 使用 `generate-ssh-keys` 指示 Azure CLI 在 VM 和 `$ Home` 目录中创建和设置公钥和私钥。默认情况下，密钥放在 Cloud Shell 中的 `/home/<user>/.ssh/id_rsa` 和 `/home/<user>/.ssh/id_rsa.pub` 位置。`.ssh` 文件夹会保留在附加文件共享的用于保留 `$Home` 的 5 GB 映像中。
 
 此 VM 上的用户名将是 Cloud Shell 中使用的用户名 ($User@Azure:)。
 

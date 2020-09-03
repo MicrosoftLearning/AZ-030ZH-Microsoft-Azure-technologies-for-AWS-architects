@@ -39,7 +39,7 @@
     ![磁盘和加密选择](../../Linked_Image_Files/portal-qs-disks-to-encryption.png)
 
 1. 在加密屏幕上，在 **“要加密的磁盘”** 下，选择 **“OS 和数据磁盘”**。
-1. 在 **“加密设置”**下，选择 **“选择密钥保管库和加密密钥”**。
+1. 在 **“加密设置”** 下，选择 **“选择密钥保管库和加密密钥”**。
 1. 在 **“从 Azure 密钥保管库中选择密钥”** 屏幕上，选择 **“新建”**。
 
     ![磁盘和加密选择](../../Linked_Image_Files/portal-qs-keyvault-create.png)

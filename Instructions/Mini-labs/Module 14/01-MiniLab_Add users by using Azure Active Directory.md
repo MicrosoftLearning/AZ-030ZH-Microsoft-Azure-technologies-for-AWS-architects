@@ -14,7 +14,7 @@
 
 4.	在 **“用户”** 页面上，输入此用户的信息：
 
-    - **名称**。必填。新用户的名字和姓氏。例如 TesterAAD**。
+    - **名称**。必填。新用户的名字和姓氏。例如 *TesterAAD*。
 
     - **用户名**。必填。新用户的用户名。例如 *TesterAAD@contoso.com*。用户名的域部分必须使用初始默认域名 *<yourdomainname>.onmicrosoft.com*，或者自定义域名，例如 *contoso.com*。
 
