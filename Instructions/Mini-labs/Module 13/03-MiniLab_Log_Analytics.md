@@ -4,7 +4,7 @@
 
 ## 访问演示环境
 
-1.  访问“Log Analytics 查询演示”[](https://portal.loganalytics.io/demo)页面。
+1.  访问[“Log Analytics 查询演示”](https://portal.loganalytics.io/demo)页面。
 2.  此页面提供了一个实时演示工作区，您可以在其中运行和测试查询。
 
 ## 使用 Query Explorer
