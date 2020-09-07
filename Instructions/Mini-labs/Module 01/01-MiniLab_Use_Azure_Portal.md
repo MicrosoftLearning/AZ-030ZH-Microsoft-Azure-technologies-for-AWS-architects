@@ -30,7 +30,7 @@ Azure 门户提供多种功能和服务；我们来看一下你通常使用的�
 
 ![表示 Azure Cloud Shell 的图标](../../Linked_Image_Files/5-cloud-shell-icon.png)
 
-Azure Cloud Shell 使你可以在 Azure 订阅中使用命令行接口 (CLI) 执行命令。可以通过选择工具栏中的图标来访问它。还可以导航到 https://shell.azure.com，并在独立于门户的浏览器中启动 Cloud Shell。
+Azure Cloud Shell 使你可以在 Azure 订阅中使用命令行接口 (CLI) 执行命令。可以通过选择工具栏中的图标来访问它。还可以导航到 https://shell.azure.com ，并在独立于门户的浏览器中启动 Cloud Shell。
 
 Azure Cloud Shell 适用于沙盒环境，但是沙盒版 Shell 的功能有所减少。若要使用所有 Azure Cloud Shell 功能，请使用自己的 Azure 订阅。
 

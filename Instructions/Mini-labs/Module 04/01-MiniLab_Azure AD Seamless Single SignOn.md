@@ -27,7 +27,7 @@
 
 通过 [Azure AD Connect](https://docs.microsoft.com/zh-cn/azure/active-directory/hybrid/whatis-hybrid-identity) 启用无缝 SSO 。
 
-如果要全新安装 Azure AD Connect，请选择“自定义安装路径”[](https://docs.microsoft.com/zh-cn/azure/active-directory/hybrid/how-to-connect-install-custom)。在 **“用户登录”** 页面，选中 **“启用单一登录选项”**。
+如果要全新安装 Azure AD Connect，请选择 [“自定义安装路径”](https://docs.microsoft.com/zh-cn/azure/active-directory/hybrid/how-to-connect-install-custom)。在 **“用户登录”** 页面，选中 **“启用单一登录选项”**。
 
 ![Azure AD Connect：用户登录](../../Linked_Image_Files/SSO_demo_image1.png)
 

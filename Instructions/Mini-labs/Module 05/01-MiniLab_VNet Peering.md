@@ -4,7 +4,7 @@
 
 **配置第一个虚拟网络的 VNet 对等互连**
 
-1. 登录 Azure 门户（网址为 [https://portal.azure.com](https://portal.azure.com/)），然后选择第一个虚拟网络。
+1. 登录 Azure 门户（网址为 [https://portal.azure.com](https://portal.azure.com/)，然后选择第一个虚拟网络。
 
 2. 在 **“设置”** 中，选择 **“对等互连”**。
 
