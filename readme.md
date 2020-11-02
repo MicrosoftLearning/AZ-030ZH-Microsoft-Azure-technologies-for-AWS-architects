@@ -1,7 +1,7 @@
 ﻿# AZ-030：面向 AWS 架构师的 Microsoft Azure 技术
 
 
-## AZ-020 课程和实验室备注
+## AZ-030 课程和实验室备注
 
 本课程“AZ-030：面向 AWS 架构师的 Microsoft Azure 技术是 AZ-303 课程材料的子集，改编为适用于有经验的 AWS 架构师的为期 4 天的课程。该课程使用小型实验室（位于文件夹 /Instructions/Mini-labs 中），使学生可以短暂频繁地与 Azure 门户和 Cloud Shell 环境进行交互。
 
