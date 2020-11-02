@@ -67,7 +67,7 @@
         }
     }
     ```
-    > **提示：**请注意，在`storageAccountName` 和我们刚刚添加的 `storageUri` 之间，有一个冒号 (`,`)！
+    > **提示：** 请注意，在`storageAccountName` 和我们刚刚添加的 `storageUri` 之间，有一个冒号 (`,`)！
 
     在将代码复制并粘贴到 Visual Studio Code 时，可尝试重新键入 **value** 元素来体验资源管理器工具扩展的 IntelliSense 功能。
 
