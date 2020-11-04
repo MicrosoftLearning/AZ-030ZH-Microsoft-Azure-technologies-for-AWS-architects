@@ -31,7 +31,7 @@ VNET_NAME = aks-vnet
 
 您可以使用 echo 命令检查每个值，例如 echo ```$REGION_NAME```。
 
-3. 使用名称 **aksworkshop 创建一个新的资源组。在这些资源组中部署在这些练习中创建的所有资源。完成模块后，单个资源组使清理资源变得更加容易。
+3. 使用名称 *aksworkshop* 创建一个新的资源组。在这些资源组中部署在这些练习中创建的所有资源。完成模块后，单个资源组使清理资源变得更加容易。
 
 ```Azure CLI
 az group create \
